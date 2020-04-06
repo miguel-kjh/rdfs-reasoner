@@ -15,11 +15,11 @@ public class ReasonerGui extends javax.swing.JFrame {
     private final JFileChooser fileChooser;
     private File schema;
     private File data;
-    private InferenceResonator resonator;
+    private InferenceScraper resonator;
     
     public ReasonerGui() {
         fileChooser = new JFileChooser();
-        resonator   = new InferenceResonator();
+        resonator   = new InferenceScraper();
         initComponents();
         setResizable(false);
         setLocationRelativeTo(null);
@@ -227,7 +227,7 @@ public class ReasonerGui extends javax.swing.JFrame {
         int res = fileChooser.showOpenDialog(null);
         if(res == JFileChooser.APPROVE_OPTION){
             data = fileChooser.getSelectedFile();
-            dataField.setText(schema.getAbsolutePath());
+            dataField.setText(data.getAbsolutePath());
         }
     }//GEN-LAST:event_buttonDataActionPerformed
 
