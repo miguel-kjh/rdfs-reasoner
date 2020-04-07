@@ -94,6 +94,7 @@ public class ReasonerGui extends javax.swing.JFrame {
         });
 
         clearButton.setText("Clear");
+        clearButton.setEnabled(false);
         clearButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 clearButtonActionPerformed(evt);
@@ -233,13 +234,19 @@ public class ReasonerGui extends javax.swing.JFrame {
 
     private void InferenceButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_InferenceButtonActionPerformed
         if(data == null || schema == null){
-            JOptionPane.showMessageDialog(this,
-                    "You need load a file data and schema", 
-                    "Error - Not Files", JOptionPane.ERROR_MESSAGE);
+            printErrorMessage("You need load a file data and schema", 
+                    "Error - Not Files");
             return;
         }
-        resonator.setFiles(schema, data);
+        try {
+            resonator.setFiles(schema, data);
+        } catch (Exception e) {
+            printErrorMessage("The shcema or data file have inconsistencies",
+                    "Error - In Files");
+        }
         changeVisabilityOfRadioButtons(true);
+        InferenceButton.setEnabled(false);
+        clearButton.setEnabled(true);
     }//GEN-LAST:event_InferenceButtonActionPerformed
 
     private void clearButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_clearButtonActionPerformed
@@ -249,6 +256,8 @@ public class ReasonerGui extends javax.swing.JFrame {
         schemaField.setText("");
         textArea.setText("");
         changeVisabilityOfRadioButtons(false);
+        InferenceButton.setEnabled(true);
+        clearButton.setEnabled(false);
     }//GEN-LAST:event_clearButtonActionPerformed
 
     private void inferenceRadioButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_inferenceRadioButtonActionPerformed
@@ -311,4 +320,10 @@ public class ReasonerGui extends javax.swing.JFrame {
     private javax.swing.JTextArea textArea;
     private javax.swing.JRadioButton violationsRadioButton;
     // End of variables declaration//GEN-END:variables
+
+    private void printErrorMessage(String message, String typeError) {
+        JOptionPane.showMessageDialog(this,
+                    message, 
+                    typeError, JOptionPane.ERROR_MESSAGE);
+    }
 }

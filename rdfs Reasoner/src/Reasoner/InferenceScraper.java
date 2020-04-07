@@ -17,7 +17,7 @@ import org.apache.jena.vocabulary.ReasonerVocabulary;
 
 public class InferenceScraper {
     private InfModel inference;
-    private final Reasoner reasoner;
+    private Reasoner reasoner;
 
     public InferenceScraper() {
         LogCtl.setCmdLogging();
@@ -29,8 +29,8 @@ public class InferenceScraper {
     public void setFiles(File fileSchema, File fileData){
         Model schema    = RDFDataMgr.loadModel(fileSchema.getAbsolutePath());
         Model data      = RDFDataMgr.loadModel(fileData.getAbsolutePath());
-        reasoner.bindSchema(schema);
-        this.inference = ModelFactory.createInfModel(reasoner, data);
+        this.reasoner   = reasoner.bindSchema(schema);
+        this.inference  = ModelFactory.createInfModel(reasoner, data);
     }
     
     public String getInference(){
@@ -46,7 +46,6 @@ public class InferenceScraper {
     public String getViolations(){
         String result             = "";
         ValidityReport validation = inference.validate();
-        System.out.println(validation.isValid());
         Iterator iter             = validation.getReports();
         while (iter.hasNext()) {
             result += iter.next() + "\n";
