@@ -243,6 +243,8 @@ public class ReasonerGui extends javax.swing.JFrame {
         } catch (Exception e) {
             printErrorMessage("The shcema or data file have inconsistencies",
                     "Error - In Files");
+            System.out.println(e);
+            return;
         }
         changeVisabilityOfRadioButtons(true);
         InferenceButton.setEnabled(false);
@@ -258,6 +260,7 @@ public class ReasonerGui extends javax.swing.JFrame {
         changeVisabilityOfRadioButtons(false);
         InferenceButton.setEnabled(true);
         clearButton.setEnabled(false);
+        resonator.clearReasoner();
     }//GEN-LAST:event_clearButtonActionPerformed
 
     private void inferenceRadioButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_inferenceRadioButtonActionPerformed

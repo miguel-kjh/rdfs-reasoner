@@ -33,6 +33,12 @@ public class InferenceScraper {
         this.inference  = ModelFactory.createInfModel(reasoner, data);
     }
     
+    public void clearReasoner(){
+        reasoner = ReasonerRegistry.getRDFSReasoner();
+        reasoner.setParameter(ReasonerVocabulary.PROPsetRDFSLevel, 
+                ReasonerVocabulary.RDFS_SIMPLE);
+    }
+    
     public String getInference(){
         String result     = "";
         StmtIterator iter = inference.listStatements();
