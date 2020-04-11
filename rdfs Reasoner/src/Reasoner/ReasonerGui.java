@@ -196,7 +196,7 @@ public class ReasonerGui extends javax.swing.JFrame {
                         .addGap(13, 13, 13)
                         .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addGap(18, 18, 18)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 367, Short.MAX_VALUE)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 488, Short.MAX_VALUE)
                 .addGap(24, 24, 24))
         );
         layout.setVerticalGroup(
@@ -209,7 +209,7 @@ public class ReasonerGui extends javax.swing.JFrame {
                         .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(40, 40, 40)
                         .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(0, 32, Short.MAX_VALUE)))
+                        .addGap(0, 31, Short.MAX_VALUE)))
                 .addContainerGap())
         );
 
@@ -252,15 +252,14 @@ public class ReasonerGui extends javax.swing.JFrame {
     }//GEN-LAST:event_InferenceButtonActionPerformed
 
     private void clearButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_clearButtonActionPerformed
-        data   = null;
-        schema = null;
-        dataField.setText("");
-        schemaField.setText("");
         textArea.setText("");
+        violationsRadioButton.setSelected(false);
+        violationsRadioButton.setSelected(false);
         changeVisabilityOfRadioButtons(false);
         InferenceButton.setEnabled(true);
         clearButton.setEnabled(false);
         resonator.clearReasoner();
+        
     }//GEN-LAST:event_clearButtonActionPerformed
 
     private void inferenceRadioButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_inferenceRadioButtonActionPerformed
