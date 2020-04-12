@@ -6,6 +6,8 @@ import org.apache.jena.atlas.logging.LogCtl;
 import org.apache.jena.rdf.model.InfModel;
 import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
+import org.apache.jena.rdf.model.Property;
+import org.apache.jena.rdf.model.RDFNode;
 import org.apache.jena.rdf.model.Statement;
 import org.apache.jena.rdf.model.StmtIterator;
 import org.apache.jena.reasoner.Reasoner;
@@ -41,7 +43,11 @@ public class InferenceScraper {
     
     public String getInference(){
         String result     = "";
-        StmtIterator iter = inference.listStatements();
+        StmtIterator iter = inference.listStatements(
+                null,
+                inference.getProperty("http://www.w3.org/1999/02/22-rdf-syntax-ns#type"),
+                (RDFNode)  null
+        );
         while (iter.hasNext()) {
             Statement next = iter.next();
             result        += PrintUtil.print(next) + "\n";

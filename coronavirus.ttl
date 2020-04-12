@@ -1,0 +1,305 @@
+<http://twitter.com/soniasanlop>
+        <http://twitter.com/nombre>     "soniasanlop" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/ricardo_lazaro>
+        <http://twitter.com/nombre>     "ricardo_lazaro" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269815203827712>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/ISABELMBE> ;
+        <http://purl.org/dc/terms/description>
+                "RT @ReMC_org: A las 11:00 vuelve \"El Otro Coronavirus\", nuestro programa colaborativo emitido en red.\nConfinamiento de la niñez, redes de a…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:08 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269815203827712" .
+
+<http://twitter.com/1249269815975518208>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/miraculous1> ;
+        <http://purl.org/dc/terms/description>
+                "RT @chidambara09: #HouseOfCommons \nset to return '#DIGITALLY' on #April 21 https://t.co/uXzkxf4bl4 via @MailOnline \n\n#bigdata \n#healthCare…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:09 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269815975518208" .
+
+<http://twitter.com/ISABELMBE>
+        <http://twitter.com/nombre>     "ISABELMBE" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269815597916160>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/drmohdizhararif> ;
+        <http://purl.org/dc/terms/description>
+                "RT @bharianmy: Mereka yang tidak mematuhi SOP akan mengagalkan usaha kerajaan dalam menangani pandemik ini\n#BHwilayah #COVID19 #coronavirus…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:09 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269815597916160" .
+
+<http://twitter.com/Butch627>
+        <http://twitter.com/nombre>     "Butch627" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269816680210433>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/0xDEADBEEFCAFE> ;
+        <http://purl.org/dc/terms/description>
+                "RT @cnni: Twitter co-founder and CEO Jack Dorsey says he's dedicating more than a quarter of his wealth to a new fund for charitable causes…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:09 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269816680210433" .
+
+<http://twitter.com/miraculous1>
+        <http://twitter.com/nombre>     "miraculous1" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269816613130240>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/PozLadLincolnUK> ;
+        <http://purl.org/dc/terms/description>
+                "RT @ULHT_News: A new Family Liaison Team has been launched to link patients and their families after visiting was suspended at Boston, Linc…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:09 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269816613130240" .
+
+<http://twitter.com/0xDEADBEEFCAFE>
+        <http://twitter.com/nombre>     "0xDEADBEEFCAFE" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269815765798915>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/jianhanqiao> ;
+        <http://purl.org/dc/terms/description>
+                "@DailyMirror The same researcher being blamed of experimenting modifying bat coronavirus to infect human cells.\n\nhttps://t.co/8j6Kqg8cCx" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:09 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269815765798915" ;
+        <http://twitter.com/respuesta_a>
+                <http://twitter.com/> .
+
+<http://twitter.com/yamamoto_ouen>
+        <http://twitter.com/nombre>     "yamamoto_ouen" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/PozLadLincolnUK>
+        <http://twitter.com/nombre>     "PozLadLincolnUK" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/DailyMirror>
+        <http://twitter.com/nombre>     "DailyMirror" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269816956874752>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/MHiesboeck> ;
+        <http://purl.org/dc/terms/description>
+                "RT @Reuters: China steps up scrutiny of inbound travelers as imported coronavirus cases hit record https://t.co/gUUaIVm5Se https://t.co/wwp…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:09 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269816956874752" .
+
+<http://twitter.com/1249269817300803584>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/yamamoto_ouen> ;
+        <http://purl.org/dc/terms/description>
+                "RT @TadTwi2011: 安倍首相のtwitterの件、さっそくロイターで世界に報じられてる。記事冒頭から「twitterユーザーから怒りの声」と。\n\nhttps://t.co/LskBLXDovB" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:09 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269817300803584" .
+
+<http://twitter.com/tanyasmith67>
+        <http://twitter.com/nombre>     "tanyasmith67" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269816650850304>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/tanyasmith67> ;
+        <http://purl.org/dc/terms/description>
+                "Coronavirus: Young men drinking beer in park swear at nurse after being told to move\nhttps://t.co/tROHax5ZhO https://t.co/g132Ym15UI" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:09 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269816650850304" .
+
+<http://twitter.com/>
+        a                              <http://twitter.com/> , <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "enfermedad del momento" ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/DailyMirror> ;
+        <http://purl.org/dc/terms/description>
+                "China 'hid work of \"Bat Woman\" scientist who unlocked coronavirus gene' https://t.co/jpTL5LXmKz https://t.co/H1Ec0wA5ms" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:29:00 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249268268818468866" .
+
+<http://wikipedia.com/topic>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "enfermedad del momento" .
+
+<http://twitter.com/1249269815895830528>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/ricardo_lazaro> ;
+        <http://purl.org/dc/terms/description>
+                "RT @poloi: Los barrios pobres de NY están siendo arrasados por el Covid-19 https://t.co/RKYVjdnWLl" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:09 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269815895830528" .
+
+<http://twitter.com/1249269815539306496>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/ThaddeusNonso> ;
+        <http://purl.org/dc/terms/description>
+                "RT @billmaher: China is a dictatorship that, for decades, enforced a one child per family policy under penalty of forced sterilization. But…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:08 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269815539306496" .
+
+<http://twitter.com/MHiesboeck>
+        <http://twitter.com/nombre>     "MHiesboeck" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://wikipedia.com>
+        <http://purl.org/dc/terms/type>
+                <http://wikipedia.com/topic> .
+
+<http://twitter.com/1249269815946227712>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/soniasanlop> ;
+        <http://purl.org/dc/terms/description>
+                "El coronavirus provocarà la caiguda anual de CO2 més gran fins ara. El repte ara és aprofitar-la per seguir baixant @CarbonBrief @gcarbonproject  https://t.co/tl48V9rstS" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:09 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269815946227712" .
+
+<http://twitter.com/ThaddeusNonso>
+        <http://twitter.com/nombre>     "ThaddeusNonso" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/jianhanqiao>
+        <http://twitter.com/nombre>     "jianhanqiao" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://language.com/lang>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "indonesio" , "japonés" , "español" , "catalán" , "inglés" ;
+        <http://purl.org/dc/terms/identifier>
+                "in" , "es" , "en" , "ca" , "ja" .
+
+<http://twitter.com/vaca13784074>
+        <http://twitter.com/nombre>     "vaca13784074" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269817518862336>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/Butch627> ;
+        <http://purl.org/dc/terms/description>
+                "RT @kb2474: これ分かりやすい。\n\n特設サイト 新型コロナウイルス 「こんなときはどんな支援が？」 助成金や補助金の情報｜NHK https://t.co/srhbNJqlgE" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:09 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269817518862336" .
+
+<http://twitter.com/drmohdizhararif>
+        <http://twitter.com/nombre>     "drmohdizhararif" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/rogerzobl>
+        <http://twitter.com/nombre>     "rogerzobl" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269815715540998>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/rogerzobl> ;
+        <http://purl.org/dc/terms/description>
+                "Los agujeros del acuerdo del Eurogrupo: por qué en Holanda lo celebran como una victoria https://t.co/hjjEAUvdji vía @publico_es" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:09 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269815715540998" .
+
+<http://twitter.com/1249269817149808641>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/vaca13784074> ;
+        <http://purl.org/dc/terms/description>
+                "RT @MOFA_Taiwan: Real questions warrant real answers. We sincerely appreciate @NikkiHaley refocusing #Coronavirus discussions on the real i…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:09 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269817149808641" .

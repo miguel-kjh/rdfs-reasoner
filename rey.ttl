@@ -1,0 +1,229 @@
+<http://twitter.com/sagitarad4>
+        <http://twitter.com/nombre>     "sagitarad4" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/margarjimen>
+        <http://twitter.com/nombre>     "margarjimen" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269578275983360>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/margarjimen> ;
+        <http://purl.org/dc/terms/description>
+                "RT @AbelPrieto11: Millonarios se construyen instalaciones aisladas, con máximo confort; pagan servicios médicos a domicilio; viajan en yate…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:34:12 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269578275983360" .
+
+<http://twitter.com/1249269588937891840>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/elFUCKINGbrand> ;
+        <http://purl.org/dc/terms/description>
+                "RT @cabaredlana: Tradução de 'Happy' primeira faixa do álbum falado que foi compartilhado por Lana Del Rey, ontem (10). https://t.co/FEkA1z…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:34:14 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269588937891840" .
+
+<http://twitter.com/Akatsuki_rey>
+        <http://twitter.com/nombre>     "Akatsuki_rey" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/regionescofrade>
+        <http://twitter.com/nombre>     "regionescofrade" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/ImElectra_Heart>
+        <http://twitter.com/nombre>     "ImElectra_Heart" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/fire_bondar>
+        <http://twitter.com/nombre>     "fire_bondar" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269536785760256>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/Akatsuki_rey> ;
+        <http://purl.org/dc/terms/description>
+                "RT @cathy19240327: 卵回でケンタロス出すのは絶対わかってると思うんですよ\n\n#anipoke https://t.co/0kmJtnTlV0" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:34:02 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269536785760256" .
+
+<http://twitter.com/KirguduDriver2>
+        <http://twitter.com/nombre>     "KirguduDriver2" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/a21nan>
+        <http://twitter.com/nombre>     "a21nan" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269552866877440>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/sagitarad4> ;
+        <http://purl.org/dc/terms/description>
+                "@fire_bondar GRACIAS TKM REY" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:34:06 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269552866877440" ;
+        <http://twitter.com/respuesta_a>
+                <http://twitter.com/> .
+
+<http://twitter.com/csesznek>
+        <http://twitter.com/nombre>     "csesznek" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/LukeFlanagan20>
+        <http://twitter.com/nombre>     "LukeFlanagan20" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/elFUCKINGbrand>
+        <http://twitter.com/nombre>     "elFUCKINGbrand" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/>
+        a                              <http://www.w3.org/2000/01/rdf-schema#Class> , <http://twitter.com/> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "monarca" ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/ToryRoseBot> , <http://twitter.com/Tess_Blanchard> , <http://twitter.com/LukeFlanagan20> , <http://twitter.com/sagitarad4> , <http://twitter.com/ImElectra_Heart> , <http://twitter.com/fire_bondar> ;
+        <http://purl.org/dc/terms/description>
+                "@ToryRoseBot marina diamandis should release i’m not hungry anymore 😡" , "@ImElectra_Heart the spoons are bad luck!" , "@ToryRoseBot @CumQuatPeace is scared of @CumQuatPeace 💕" , "@ToryRoseBot you are attractive 🕺" , "@ImElectra_Heart I am Ten silver spoons. I hate that." , "@ToryRoseBot i am scared of past trauma👀" , "is anyone else getting weird sex vibes from me and @ToryRoseBot?" , "@ImElectra_Heart Congress coming after me, One life with one dream on repeat, I'll escape if I try hard enough, Till, King of the Jungle calls my bluff." , "@ImElectra_Heart Are pollster mad at me?😢" , "@ToryRoseBot i just read tomatoes in an american accent wtf" , "@ImElectra_Heart Professor of a frootloop dingus makes me want to drop out." , "@ImElectra_Heart I worship 🅱️ernie 🅱️anders. I love Lana Del Rey." , "@ToryRoseBot @CumQuatPeace is cute 😳" , "@ImElectra_Heart the spoons is love, theatre department is life." , "@ToryRoseBot you are my mans 😳" , "@ToryRoseBot the black nun from llangranog is my fav welsh moot" , "@ToryRoseBot chile" , "@ImElectra_Heart Dr. Elis sucks!😾" , "@ImElectra_Heart Proud to announce that I am in the right headspace to receive information that could possibly hurt you!🎉👏🎊🙌" , "@ToryRoseBot person" , "@ImElectra_Heart I worship 🅱️oe 🅱️iden. I love political science professors." , "@ImElectra_Heart You are not psychology." , "@ToryRoseBot lana nooooo" , "@ImElectra_Heart It’s what Electra Heart deserves. 💅🏼😌" , "@ToryRoseBot you are not my type 😭" , "@ImElectra_Heart You are polling well. I worship FUCK. 🙏🏻" , "@ToryRoseBot i do not believe in the flatwoods monster ✨" , "@ToryRoseBot 🗿" , "@ToryRoseBot england bad" , "@Tess_Blanchard Why are you fucker still pushing this? @JimCornetteUK help? Am I, as a fan, supposed to believe that @Tess_Blanchard who I'm love, would beat @KenShamrockBook in a fight?" , "@ImElectra_Heart in pain, in pain, we’re the political scientists. We prey at night, we stalk at night, we’re the 💩. I’m the giant shitty that makes all of the rules! Let’s see what kind of trouble we can get ourselves into!" , "@ToryRoseBot froot was the album of it’s decade 😩" , "@ImElectra_Heart Proud to announce that I am FROOT!🎉👏🎊🙌" , "@ImElectra_Heart Dr. of in pain is my idol.🤩" , "@ToryRoseBot very nice" , "@ToryRoseBot viktor is gay" , "@ToryRoseBot harvey is god" , "@ImElectra_Heart There lived a certain the spoons in Russia long ago, He was big and strong, in his eyes a flaming glow, Most people looked at him with terror and with fear, But to Moscow chicks he was such a lovely dear." , "@ImElectra_Heart It’s what Nate Silver deserves. 💅🏼😌" , "@ToryRoseBot i just remembered tories :p" , "@ImElectra_Heart Are the spoons mad at me?😢" , "@ToryRoseBot i do not believe in mothman 🤤" , "@ImElectra_Heart This is my formal endorsement of political science department." , "@ToryRoseBot i am nothing but a hole for afonso to use 💕" , "@ToryRoseBot men :p" , "@ImElectra_Heart Why won’t my father love me?😔💔" , "@ImElectra_Heart Death by living in the state of dreaming, Living in a make-believe land." , "@ImElectra_Heart Professor of Marina Lambrini Diamandis makes me want to drop out." , "@ToryRoseBot i am scared of tories‼️" , "🤫 https://t.co/7HBwcqtH0r" , "@ImElectra_Heart I think FROOT’s mad at me.😰" , "@ToryRoseBot skye is my fav welsh moot" , "@ImElectra_Heart Professor FROOT, please help me." , "@ImElectra_Heart I’m afraid political science department hates me.😔" , "@ToryRoseBot stick your c0ck in me" , "@ImElectra_Heart I’m afraid Socialism hates me.😔" , "@sagitarad4 RE LINDA" , "@ToryRoseBot bloom flop" , "@ImElectra_Heart Socialists for Capitalism." , "@ImElectra_Heart Ten silver spoons could preach the Bible like a preacher, Full of ecstasy and fire, But he also was the kind of teacher, MiLtOn FrIeDmAn would desire." , "@ImElectra_Heart This is my formal endorsement of ecuprofessor." , "@ImElectra_Heart I am Elis. I hate that." , "@ImElectra_Heart Are you dumb or just stupid?" , "@ImElectra_Heart Capitalism is love, political science is life." , "@ToryRoseBot stream the family jewels 😡" , "@ImElectra_Heart This is my formal endorsement of Ten silver spoons." , "@ToryRoseBot scared of tories" , "@ImElectra_Heart I think a Rat🐀’s mad at me.😰" , "les gusta mi icon o salgo muy fea ayuda" , "@ImElectra_Heart Are you FUCK?" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 08:38:54 WEST 2020" , "Sun Apr 12 06:17:29 WEST 2020" , "Sun Apr 12 10:23:35 WEST 2020" , "Sun Apr 12 08:14:15 WEST 2020" , "Sun Apr 12 07:33:39 WEST 2020" , "Sun Apr 12 08:15:34 WEST 2020" , "Sun Apr 12 08:03:38 WEST 2020" , "Sun Apr 12 07:23:37 WEST 2020" , "Sun Apr 12 08:19:20 WEST 2020" , "Sun Apr 12 10:03:52 WEST 2020" , "Sun Apr 12 08:23:57 WEST 2020" , "Sun Apr 12 09:54:02 WEST 2020" , "Sun Apr 12 09:48:57 WEST 2020" , "Sun Apr 12 09:24:21 WEST 2020" , "Sun Apr 12 09:58:54 WEST 2020" , "Sun Apr 12 08:38:34 WEST 2020" , "Sun Apr 12 06:00:48 WEST 2020" , "Sun Apr 12 08:08:59 WEST 2020" , "Sun Apr 12 08:23:37 WEST 2020" , "Sun Apr 12 09:13:31 WEST 2020" , "Sun Apr 12 08:58:58 WEST 2020" , "Sun Apr 12 09:53:41 WEST 2020" , "Sun Apr 12 07:38:53 WEST 2020" , "Sun Apr 12 08:53:55 WEST 2020" , "Sun Apr 12 07:43:58 WEST 2020" , "Sun Apr 12 07:18:58 WEST 2020" , "Sun Apr 12 10:08:31 WEST 2020" , "Sun Apr 12 09:43:36 WEST 2020" , "Sun Apr 12 09:58:33 WEST 2020" , "Sun Apr 12 07:48:24 WEST 2020" , "Sun Apr 12 08:53:34 WEST 2020" , "Sun Apr 12 09:03:55 WEST 2020" , "Sun Apr 12 10:28:52 WEST 2020" , "Sun Apr 12 10:28:31 WEST 2020" , "Sun Apr 12 07:53:51 WEST 2020" , "Sun Apr 12 08:16:04 WEST 2020" , "Sun Apr 12 08:19:00 WEST 2020" , "Sun Apr 12 09:28:41 WEST 2020" , "Sun Apr 12 08:58:38 WEST 2020" , "Sun Apr 12 09:33:54 WEST 2020" , "Sun Apr 12 07:28:35 WEST 2020" , "Sun Apr 12 08:48:36 WEST 2020" , "Sun Apr 12 09:24:42 WEST 2020" , "Sun Apr 12 10:13:54 WEST 2020" , "Sun Apr 12 07:28:57 WEST 2020" , "Sun Apr 12 06:04:18 WEST 2020" , "Sun Apr 12 09:03:34 WEST 2020" , "Sun Apr 12 08:28:54 WEST 2020" , "Sun Apr 12 10:03:30 WEST 2020" , "Sun Apr 12 09:48:35 WEST 2020" , "Sun Apr 12 09:29:02 WEST 2020" , "Sun Apr 12 07:38:32 WEST 2020" , "Sun Apr 12 07:34:00 WEST 2020" , "Sun Apr 12 08:28:33 WEST 2020" , "Sun Apr 12 09:13:52 WEST 2020" , "Sun Apr 12 08:48:56 WEST 2020" , "Sun Apr 12 08:03:58 WEST 2020" , "Sun Apr 12 08:08:37 WEST 2020" , "Sun Apr 12 09:38:35 WEST 2020" , "Sun Apr 12 08:33:57 WEST 2020" , "Sun Apr 12 08:43:52 WEST 2020" , "Sun Apr 12 07:58:36 WEST 2020" , "Sun Apr 12 07:43:38 WEST 2020" , "Sun Apr 12 09:34:16 WEST 2020" , "Sun Apr 12 10:33:43 WEST 2020" , "Sun Apr 12 08:33:38 WEST 2020" , "Sun Apr 12 08:43:33 WEST 2020" , "Sun Apr 12 07:58:56 WEST 2020" , "Sun Apr 12 09:08:54 WEST 2020" , "Sun Apr 12 07:16:00 WEST 2020" , "Sun Apr 12 09:18:41 WEST 2020" , "Sun Apr 12 07:23:57 WEST 2020" , "Sun Apr 12 09:43:57 WEST 2020" , "Sun Apr 12 10:23:56 WEST 2020" , "Sun Apr 12 09:38:57 WEST 2020" , "Sun Apr 12 09:08:32 WEST 2020" , "Sun Apr 12 09:19:02 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249234688352432128" , "1249236715027521536" , "1249258190358949889" , "1249237959624331265" , "1249225371628732419" , "1249239317861617667" , "1249230418538311680" , "1249246856074403840" , "1249244253714288647" , "1249221616401334272" , "1249254494409498624" , "1249222867507699712" , "1249239235061833730" , "1249235638232252416" , "1249260696400990208" , "1249245526815657984" , "1249269455663874054" , "1249227854912552960" , "1249232939491168256" , "1249249362947067904" , "1249222957165051904" , "1249225456680927232" , "1249252086790979586" , "1249258100726652933" , "1249221702636224512" , "1249266996295995392" , "1249248021054963713" , "1249238047880863746" , "1249240478614241281" , "1249231771172036608" , "1249259471030947841" , "1249220444533784576" , "1249264470284787712" , "1249245612714921984" , "1249261944772624384" , "1249224228089597952" , "1249246768426029057" , "1249250574262054912" , "1249234814231871489" , "1249249275218886656" , "1249224141284179969" , "1249226655979184128" , "1249243001706217473" , "1249201656539078656" , "1249200775609356289" , "1249241731201150978" , "1249235552869761024" , "1249259381579034624" , "1249255675064127488" , "1249260605833457667" , "1249256843425320960" , "1249233032764174336" , "1249243087769141249" , "1249251999243255808" , "1249268236278956033" , "1249230505872183300" , "1249231687139176449" , "1249229224583577600" , "1249254404248788992" , "1249248111433846784" , "1249263115595845637" , "1249241814139273216" , "1249236800796626948" , "1249253179650433029" , "1249244339538210818" , "1249234359976169472" , "1249255582395240448" , "1249268146369966080" , "1249266905262829569" , "1249250661235130368" , "1249261851663351813" , "1249226739882082306" , "1249219698333552640" , "1249256932248092672" , "1249253092094357509" , "1249240562324115456" , "1249204975470817281" ;
+        <http://twitter.com/respuesta_a>
+                <http://twitter.com/> .
+
+<http://wikipedia.com/topic>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "monarca" .
+
+<http://twitter.com/Tess_Blanchard>
+        <http://twitter.com/nombre>     "Tess_Blanchard" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://wikipedia.com>
+        <http://purl.org/dc/terms/type>
+                <http://wikipedia.com/topic> .
+
+<http://twitter.com/ToryRoseBot>
+        <http://twitter.com/nombre>     "ToryRoseBot" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269557493186560>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/regionescofrade> ;
+        <http://purl.org/dc/terms/description>
+                "RT @sepulcroalmeria: Primicia de los muertos,\nsabemos por tu gracia\nque estás resucitado;\nla muerte en ti no manda.\n\nRey vencedor, apiádate…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:34:07 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269557493186560" .
+
+<http://twitter.com/1249269602455977987>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/a21nan> ;
+        <http://purl.org/dc/terms/description>
+                "RT @mmeanion1230: 🔱 pls rt \n🦢 FIC ‘The Black Swan — #TheBlackSwanKV \n🖤 Prologue \n📝 https://t.co/gfMF4RqzJc \n🔒 ชื่อนิยายเป็นภาษาอังกฤษตัวพิม…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:34:18 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269602455977987" .
+
+<http://language.com/lang>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tailandés" , "japonés" , "portugués" , "español" , "hindi" , "lengua desconocida" , "inglés" ;
+        <http://purl.org/dc/terms/identifier>
+                "und" , "es" , "hi" , "en" , "th" , "pt" , "ja" .
+
+<http://twitter.com/1249269547967942656>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/ToryRoseBot> ;
+        <http://purl.org/dc/terms/description>
+                "@ImElectra_Heart Why won’t Lana Del Rey love me?😔💔" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:34:05 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269547967942656" ;
+        <http://twitter.com/respuesta_a>
+                <http://twitter.com/> .
+
+<http://twitter.com/1249269617085693952>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/Akatsuki_rey> ;
+        <http://purl.org/dc/terms/description>
+                "笑うからwww >RT" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:34:21 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269617085693952" .
+
+<http://twitter.com/1249269548336984065>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/KirguduDriver2> ;
+        <http://purl.org/dc/terms/description>
+                "@LukeFlanagan20 @Tess_Blanchard @JimCornetteUK @KenShamrockBook You believe in little AJ beating 2x bigger men and Rey Mysterio beating... anyone." ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:34:05 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269548336984065" ;
+        <http://twitter.com/respuesta_a>
+                <http://twitter.com/> .
+
+<http://twitter.com/1249269561670733824>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/csesznek> ;
+        <http://purl.org/dc/terms/description>
+                "RT @MiklosCseszneky: El castillo de Szepes (en eslovaco: Spišský hrad) era una de las fortalezas más importantes de la Hungría medieval. Aq…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:34:08 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269561670733824" .

@@ -9,6 +9,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.filechooser.FileFilter;
 import javax.swing.filechooser.FileNameExtensionFilter;
+import org.apache.jena.atlas.logging.LogCtl;
 
 public class ReasonerGui extends javax.swing.JFrame {
 
@@ -18,6 +19,7 @@ public class ReasonerGui extends javax.swing.JFrame {
     private InferenceScraper resonator;
     
     public ReasonerGui() {
+        LogCtl.setCmdLogging();
         fileChooser = new JFileChooser();
         resonator   = new InferenceScraper();
         initComponents();
@@ -196,7 +198,7 @@ public class ReasonerGui extends javax.swing.JFrame {
                         .addGap(13, 13, 13)
                         .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addGap(18, 18, 18)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 488, Short.MAX_VALUE)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 544, Short.MAX_VALUE)
                 .addGap(24, 24, 24))
         );
         layout.setVerticalGroup(
@@ -209,7 +211,7 @@ public class ReasonerGui extends javax.swing.JFrame {
                         .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(40, 40, 40)
                         .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(0, 31, Short.MAX_VALUE)))
+                        .addGap(0, 0, Short.MAX_VALUE)))
                 .addContainerGap())
         );
 
@@ -248,6 +250,8 @@ public class ReasonerGui extends javax.swing.JFrame {
         }
         changeVisabilityOfRadioButtons(true);
         InferenceButton.setEnabled(false);
+        buttonSchema.setEnabled(false);
+        buttonData.setEnabled(false);
         clearButton.setEnabled(true);
     }//GEN-LAST:event_InferenceButtonActionPerformed
 
@@ -258,6 +262,8 @@ public class ReasonerGui extends javax.swing.JFrame {
         changeVisabilityOfRadioButtons(false);
         InferenceButton.setEnabled(true);
         clearButton.setEnabled(false);
+        buttonSchema.setEnabled(true);
+        buttonData.setEnabled(true);
         resonator.clearReasoner();
         
     }//GEN-LAST:event_clearButtonActionPerformed

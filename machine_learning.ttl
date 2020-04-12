@@ -1,0 +1,221 @@
+<http://twitter.com/1249269292245356545>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/TheCuriousLuke> ;
+        <http://purl.org/dc/terms/description>
+                "RT @CaptCardoso: How I spent my 2 weeks in Isolation. \nI got introduced to Bayesian thinking, Performance programming in C++ and Computer V…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:33:04 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269292245356545" .
+
+<http://twitter.com/1249269857968889856>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/SogatecniaI> ;
+        <http://purl.org/dc/terms/description>
+                "Machine Learning Solutions & Artificial Intelligence #ArtificialIntelligence via https://t.co/dk0caya0Oh https://t.co/Fzbg0BZVVl" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:19 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269857968889856" .
+
+<http://twitter.com/SogatecniaI>
+        <http://twitter.com/nombre>     "SogatecniaI" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249270051623993344>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/YakinRubaiat> ;
+        <http://purl.org/dc/terms/description>
+                "Can machine learning be used in the compiler?" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:36:05 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249270051623993344" .
+
+<http://twitter.com/RobRe62>
+        <http://twitter.com/nombre>     "RobRe62" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/JPRATHGEBER>
+        <http://twitter.com/nombre>     "JPRATHGEBER" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269356695031809>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/Reddit_Aliens> ;
+        <http://purl.org/dc/terms/description>
+                "These are the people building a network of machine learning cameras to hunt UFOs via /r/aliens https://t.co/edH2zs0G64" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:33:19 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269356695031809" .
+
+<http://twitter.com/TheCuriousLuke>
+        <http://twitter.com/nombre>     "TheCuriousLuke" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269944002457602>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/wrdcsc> ;
+        <http://purl.org/dc/terms/description>
+                "RT @Livingstone_S: “Princeton University asked hundreds of researchers to predict six life outcomes for children, parents, and households u…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:35:39 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269944002457602" .
+
+<http://twitter.com/1249269775513071618>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/RobRe62> ;
+        <http://purl.org/dc/terms/description>
+                "RT @IBMItalia: Data & AI Summit 2020, 29 aprile - Live on Air -\nSei un #DataScientiest e vuoi analizzare i dati per creare dei modelli di m…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:34:59 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269775513071618" .
+
+<http://twitter.com/abraham_opoku>
+        <http://twitter.com/nombre>     "abraham_opoku" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/vijaynikam001>
+        <http://twitter.com/nombre>     "vijaynikam001" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249269284821295106>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/vijaynikam001> ;
+        <http://purl.org/dc/terms/description>
+                "RT @IBMDeveloper: Data science tools for data-driven decision making & machine learning on scalable platforms, including Spark and TensorFl…" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:33:02 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269284821295106" .
+
+<http://twitter.com/GabbyDarko>
+        <http://twitter.com/nombre>     "GabbyDarko" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/>
+        a                              <http://twitter.com/> , <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IA" ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/GabbyDarko> , <http://twitter.com/arthurdavid53> ;
+        <http://purl.org/dc/terms/description>
+                "Scientists at University of Ghana’s Noguchi Memorial Institute for Medical Research and West African Centre for Cell Biology of Infectious Pathogens have successfully sequenced the genomes of SARS-COV-2 from 15 of the samples obtained from confirmed COVID-19 cases in Ghana. https://t.co/XPGnw8UudO" , "@GabbyDarko Other countries are busy looking for vaccines and they are thinking of genome? We are aware of COVID-19 what else do they want to tell us.....\nHypocrisy nkoaaaaa" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 01:08:44 WEST 2020" , "Sun Apr 12 08:22:52 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249236528116703233" , "1249127273959129096" ;
+        <http://twitter.com/respuesta_a>
+                <http://twitter.com/> .
+
+<http://wikipedia.com/topic>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IA" .
+
+<http://twitter.com/Reddit_Aliens>
+        <http://twitter.com/nombre>     "Reddit_Aliens" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/1249270133371133952>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/JPRATHGEBER> ;
+        <http://purl.org/dc/terms/description>
+                "Uploading my https://t.co/Smw3AQ3mze machine learning stock market submission for round [207] kazutsugi with correlation [0.04121123672338809]" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:36:24 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249270133371133952" .
+
+<http://twitter.com/1249269484097024000>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/abraham_opoku> ;
+        <http://purl.org/dc/terms/description>
+                "@arthurdavid53 @GabbyDarko relax is a great achievementto Ghana. Before u can develop a vaccine u need to know the Geno-type of the virus n this involves the using of HPC and Machine Learning Technology. It took China about months to get the right sequence for covid-19. Chale don’t say what you don’t know" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:33:49 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269484097024000" ;
+        <http://twitter.com/respuesta_a>
+                <http://twitter.com/> .
+
+<http://twitter.com/ScorpionVisUK>
+        <http://twitter.com/nombre>     "ScorpionVisUK" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://wikipedia.com>
+        <http://purl.org/dc/terms/type>
+                <http://wikipedia.com/topic> .
+
+<http://twitter.com/1249269302668275712>
+        a                              <http://twitter.com/> ;
+        <http://purl.org/dc/terms/creator>
+                <http://twitter.com/ScorpionVisUK> ;
+        <http://purl.org/dc/terms/description>
+                "💻Deep learning is revolutionizing the role of machine vision in industrial automation and smart manufacturing.  The integration of deep learning has enabled machine vision systems to adapt autonomously to manufacturing variations. https://t.co/D3cv07UAas" ;
+        <http://purl.org/dc/terms/language>
+                <http://language.com/lang> ;
+        <http://purl.org/dc/terms/relation>
+                <http://wikipedia.com> ;
+        <http://twitter.com/fecha_creacion>
+                "Sun Apr 12 10:33:06 WEST 2020" ;
+        <http://twitter.com/id_tweet>  "1249269302668275712" .
+
+<http://twitter.com/YakinRubaiat>
+        <http://twitter.com/nombre>     "YakinRubaiat" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://twitter.com/arthurdavid53>
+        <http://twitter.com/nombre>     "arthurdavid53" ;
+        <http://twitter.com/ubicacion>  "" .
+
+<http://language.com/lang>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "italiano" , "inglés" ;
+        <http://purl.org/dc/terms/identifier>
+                "it" , "en" .
+
+<http://twitter.com/wrdcsc>
+        <http://twitter.com/nombre>     "wrdcsc" ;
+        <http://twitter.com/ubicacion>  "" .

@@ -1,0 +1,29 @@
+@prefix  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix  rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix  xsd:  <http://www.w3.org/2001/XMLSchema#>.
+@prefix  tw:   <http://twitter.com/>.
+
+
+tw:Tweet a rdfs:class.
+
+tw:id_tweet rdfs:domain tw:Tweet.
+
+tw:TweetRespuesta rdfs:subClassOf tw:Tweet.
+
+tw:respuesta_a rdfs:domain tw:Tweet.
+
+tw:fecha_creacion 
+    rdfs:domain tw:Tweet;
+    rdfs:range xsd:date.
+
+tw:Persona a rdfs:Class.
+
+tw:UsuarioLocalizado rdfs:subClassOf tw:Persona.
+
+tw:ubicacion rdfs:domain tw:UsuarioLocalizado.
+
+tw:apellido 
+   rdfs:domain tw:Persona;
+   rdfs:subPropertyOf tw:nombre
+
+
