@@ -3,7 +3,6 @@ package Reasoner;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.io.File;
-import java.io.IOException;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
@@ -222,7 +221,7 @@ public class ReasonerGui extends javax.swing.JFrame {
         int res = fileChooser.showOpenDialog(null);
         if(res == JFileChooser.APPROVE_OPTION){
             schema = fileChooser.getSelectedFile();
-            schemaField.setText(schema.getAbsolutePath());
+            schemaField.setText(schema.getName());
         }
     }//GEN-LAST:event_buttonSchemaActionPerformed
 
@@ -230,7 +229,7 @@ public class ReasonerGui extends javax.swing.JFrame {
         int res = fileChooser.showOpenDialog(null);
         if(res == JFileChooser.APPROVE_OPTION){
             data = fileChooser.getSelectedFile();
-            dataField.setText(data.getAbsolutePath());
+            dataField.setText(data.getName());
         }
     }//GEN-LAST:event_buttonDataActionPerformed
 
@@ -243,7 +242,7 @@ public class ReasonerGui extends javax.swing.JFrame {
         try {
             resonator.setFiles(schema, data);
         } catch (Exception e) {
-            printErrorMessage("The shcema or data file have inconsistencies",
+            printErrorMessage("The schema or data file have inconsistencies",
                     "Error - In Files");
             System.out.println(e);
             return;
@@ -257,15 +256,13 @@ public class ReasonerGui extends javax.swing.JFrame {
 
     private void clearButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_clearButtonActionPerformed
         textArea.setText("");
-        violationsRadioButton.setSelected(false);
-        violationsRadioButton.setSelected(false);
         changeVisabilityOfRadioButtons(false);
         InferenceButton.setEnabled(true);
         clearButton.setEnabled(false);
         buttonSchema.setEnabled(true);
         buttonData.setEnabled(true);
         resonator.clearReasoner();
-        
+        buttonGroup.clearSelection();
     }//GEN-LAST:event_clearButtonActionPerformed
 
     private void inferenceRadioButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_inferenceRadioButtonActionPerformed
